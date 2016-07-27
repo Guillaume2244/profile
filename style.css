@@ -1,0 +1,71 @@
+
+
+
+body {
+  background-color: #F2F2F2;
+  font-family: 'Roboto', sans-serif;
+}
+
+.container {
+  text-align: center;
+  background-color: white;
+  width: 600px;
+  margin: auto;
+  line-height: 20px;
+  box-shadow: 1px 1px 3px;
+  border-radius: 5px;
+}
+
+h1 {
+  color: red;
+  font-size: 22px;
+}
+
+h2 {
+  font-size: 18px;
+  font-weight: bold;
+}
+
+h3 {
+  padding-top: 5cm;
+  font-size: 30px;
+  font-weight: bold;
+  color: white;
+}
+
+
+.container img {
+  width: 100px;
+  height: 100px;
+  border-radius: 50%;
+}
+
+
+.food {
+ background:url(8.jpg);
+ background-size: cover;
+ height: 50%;
+}
+
+
+.freedom {
+  background:url(7.jpg);
+  background-size: cover;
+  height: 55%;
+}
+
+a:hover {
+  color: #E4D4AD;
+  text-decoration: none;
+}
+
+a{
+  color: black;
+  text-decoration: none;
+}
+
+
+li {
+  list-style-type: none;
+  padding-bottom: 0.5cm;
+}
